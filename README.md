@@ -1,5 +1,4 @@
-react+redux小demo
-使用combineReducers 合并 多个组件的Reducer
+React-Router深入及交互展示
 
 ###### 下载依赖
 > npm install
